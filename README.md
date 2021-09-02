@@ -10,7 +10,7 @@ This library was written for use with [EIP 2304](https://eips.ethereum.org/EIPS/
 ### Using NPM
 
 ```
-npm install --save @ensdomains/address-encoder
+npm install --save @address-encoder
 ```
 
 ## Usage
